@@ -1,0 +1,15 @@
+/.idea
+/.venv
+/env
+
+*.pyc
+__pycache__
+
+/.eggs
+/*.egg-info
+
+/.coverage
+/.eggs
+/dist
+/build
+/*.egg-info
